@@ -6,4 +6,5 @@ function git(){
 	console.log('c'); //remote
 	console.log('d'); //local
 	console.log('e'); //remote
+	console.log('f')
 }
