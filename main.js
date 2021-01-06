@@ -11,4 +11,5 @@ function git(){
     console.log('ccc');
     console.log('eee');
     console.log('fff');
+    console.log('gas');
 }
