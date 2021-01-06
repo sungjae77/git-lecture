@@ -10,4 +10,5 @@ function git(){
 	console.log('chosungje');
     console.log('ccc');
     console.log('eee');
+    console.log('fff');
 }
