@@ -8,4 +8,5 @@ function git(){
 	console.log('e'); //remote
 	console.log('f')
 	console.log('chosungje');
+    console.log('ccc');
 }
