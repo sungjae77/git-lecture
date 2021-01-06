@@ -7,4 +7,5 @@ function git(){
 	console.log('d'); //local
 	console.log('e'); //remote
 	console.log('f')
+	console.log('chosungje');
 }
