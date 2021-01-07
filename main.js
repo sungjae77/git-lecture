@@ -12,4 +12,7 @@ function git(){
     console.log('eee');
     console.log('fff');
     console.log('gas');
+    //ff
+    //ee
+
 }
