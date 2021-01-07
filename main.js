@@ -1,19 +1,3 @@
 function git(){
-	console.log('0'); //remote
-	console.log('0-1');
-	console.log('a'); //local
-	console.log('a-a'); //local
-	console.log('b'); //local
-	console.log('c'); //remote
-	console.log('d'); //local
-	console.log('e'); //remote
-	console.log('f')
-	console.log('chosungje');
-    console.log('ccc');
-    console.log('eee');
-    console.log('fff');
-    console.log('gas');
-    //ff
-    //ee
-
+	console.log('0'); //1
 }
