@@ -1,5 +1,6 @@
 function git(){
 	console.log('0'); //remote
+	console.log('0-1');
 	console.log('a'); //local
 	console.log('a-a'); //local
 	console.log('b'); //local
