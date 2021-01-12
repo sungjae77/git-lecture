@@ -3,4 +3,5 @@ function git(){
     mainmainmain();
     localchange();
     localChange2();
+    localChange3();
 }
