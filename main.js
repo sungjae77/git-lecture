@@ -5,4 +5,5 @@ function git(){
     localChange2();
     localChange3();
     localChange4();
+    localChange5();
 }
