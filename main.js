@@ -9,4 +9,5 @@ function git(){
 	console.log('8'); //8
 	console.log('local 에서 겁나 중요한 업무');
 	console.log('vscode'); //10
+	console.log('vscode2'); //11
 }
