@@ -8,4 +8,5 @@ function git(){
     console.log('6'); //intellij
     console.log('6-1'); // local
     console.log('7'); // 이정민
+    console.log('8');
 }
