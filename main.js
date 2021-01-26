@@ -6,4 +6,5 @@ function git(){
     console.log('2'); //local by 조성재
 	console.log('5'); //sts
     console.log('6'); //intellij
+    console.log('7'); // 이정민
 }
