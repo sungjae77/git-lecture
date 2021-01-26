@@ -7,4 +7,5 @@ function git(){
 	console.log('5'); //sts
     console.log('6'); //intellij
     console.log('6-1'); // local
+    console.log('7'); // 이정민
 }
