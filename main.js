@@ -8,4 +8,5 @@ function git(){
 	console.log('4'); //7
 	console.log('8'); //8
 	console.log('local 에서 겁나 중요한 업무');
+	console.log('vscode'); //10
 }
