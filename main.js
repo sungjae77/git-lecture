@@ -11,4 +11,5 @@ function git(){
     console.log('8');
 	conosle.log('8-1');
 	console.log('9');
+	console.log('10');
 }
