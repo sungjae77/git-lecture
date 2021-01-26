@@ -10,4 +10,5 @@ function git(){
 	console.log('local 에서 겁나 중요한 업무');
 	console.log('원격의 소스가 바뀐 상태인데 푸시가 될 푸시될까?');
 	//remote modify
+	//remote modify 2
 }
