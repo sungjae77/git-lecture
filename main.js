@@ -6,4 +6,5 @@ function git(){
 	console.log('3'); //4
 	console.log('3'); //4
 	console.log('4'); //7
+	console.log('8'); //8
 }
