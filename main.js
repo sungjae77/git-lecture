@@ -12,4 +12,5 @@ function git(){
 	conosle.log('8-1');
 	console.log('9');
 	console.log('10');
+	console.log('급해');
 }
