@@ -1,4 +1,4 @@
 function git(){
-	console.log('0'); //0
-	console.log('1');
+	console.log('0');
+	console.log('1'); //조성재
 }
